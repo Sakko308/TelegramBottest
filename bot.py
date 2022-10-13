@@ -12,3 +12,7 @@ def lalala(message):
 
 
 bot.polling(none_stop=True)
+
+
+
+#ghgfhghjgk598485
